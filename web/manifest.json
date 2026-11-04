@@ -1,11 +1,11 @@
 {
-    "name": "flutterpro",
-    "short_name": "flutterpro",
+    "name": "Henna Artistry",
+    "short_name": "Henna Artistry",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FCF8F3",
+    "theme_color": "#A96A55",
+    "description": "Custom mehndi designs for every occasion in Kochi and Kottayam, Kerala.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
