@@ -59,7 +59,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - lib/image/
+    - lib/image/photo_2026-11-04_23-56-00.jpg
+    - lib/image/photo_2026-11-04_23-56-02.jpg
+    - lib/image/photo_2026-11-04_23-56-04.jpg
+    - lib/image/photo_2026-11-04_23-56-09.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
